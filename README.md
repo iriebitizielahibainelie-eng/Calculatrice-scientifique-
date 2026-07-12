@@ -35,3 +35,5 @@ Tablette Haidiko 16pro
 - Les entrées utilisateur (input)
 - Les opérateurs mathématiques
 - La gestion de la division par zéro
+
+
