@@ -1,4 +1,4 @@
-# Calculatrice-scientifique-
+# Calculatrice.python-
 
 ## Description
 Cette calculatrice a été développée en Python.
