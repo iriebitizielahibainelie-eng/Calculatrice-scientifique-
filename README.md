@@ -18,7 +18,7 @@ Cette calculatrice a été développée en Python.
 ## Auteur
 IRIE BI TIZIÉ LAHIBAIN ELIE
 
-#Appareil 
+##Appareil 
 Tablette Haidiko 16pro 
 
 ## Améliorations futures
