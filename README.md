@@ -1,7 +1,5 @@
 # Calculatrice-scientifique-
 
-# Calculatrice Scientifique
-
 ## Description
 Cette calculatrice a été développée en Python.
 
@@ -18,7 +16,10 @@ Cette calculatrice a été développée en Python.
 - Python
 
 ## Auteur
-Elie Lahibain
+IRIE BI TIZIÉ LAHIBAIN ELIE
+
+#Appareil 
+Tablette Haidiko 16pro 
 
 ## Améliorations futures
 - Interface graphique
