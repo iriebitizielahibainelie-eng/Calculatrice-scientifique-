@@ -22,6 +22,16 @@ IRIE BI TIZIÉ LAHIBAIN ELIE
 Tablette Haidiko 16pro 
 
 ## Améliorations futures
+
 - Interface graphique
 - Historique des calculs
-- Fonctions scientifiques
+- Calculatrice scientifique avancée
+- Gestion des erreurs
+
+## Ce que j'ai appris
+
+- Les conditions (if, elif, else)
+- Les boucles (while)
+- Les entrées utilisateur (input)
+- Les opérateurs mathématiques
+- La gestion de la division par zéro
