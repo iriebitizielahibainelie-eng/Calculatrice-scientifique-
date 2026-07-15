@@ -38,7 +38,7 @@ Tablette Haidiko 16pro
 
 - ## Captures d'écran
 
-### Menu
+### Exemple d'utilisation 
 ![Menu](Screenshot_20260715-122...)
 
 ### Exemple d'utilisation
