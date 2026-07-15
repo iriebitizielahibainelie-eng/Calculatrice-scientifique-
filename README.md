@@ -36,4 +36,12 @@ Tablette Haidiko 16pro
 - Les opérateurs mathématiques
 - La gestion de la division par zéro
 
+- ## Captures d'écran
+
+### Menu
+![Menu](Screenshot_20260715-122...)
+
+### Exemple d'utilisation
+![Résultat](Screenshot_20260713-151...)
+
 
