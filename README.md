@@ -38,12 +38,8 @@ Tablette Haidiko 16pro
 
 - ## Captures d'écran
 
-### Menu
-![image<img width="800" height="1280" alt="Screenshot_20260713-151123" src="https://github.com/user-attachments/assets/3c8336a1-c2c4-4fed-9587-2f19cb924d33" />
-<img width="800" height="1280" alt="Screenshot_20260715-122652" src="https://github.com/user-attachments/assets/0d608ec0-5a2e-4bbf-be3b-86fcb71dda92" />
-](Screenshot_20260715-122...)
+<img width="800" height="1280" alt="Screenshot_20260713-151123" src="https://github.com/user-attachments/assets/9ca3869c-7ff3-438c-bd64-09e18e5f0ace" />
+<img width="800" height="1280" alt="Screenshot_20260715-122652" src="https://github.com/user-attachments/assets/aad17bac-3db7-4440-b6cf-2dec07d9fbe0" />
 
-### Exemple d'utilisation
-![image](Screenshot_20260713-151...)
 
 
